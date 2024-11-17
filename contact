@@ -1,0 +1,119 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 625px; left: 80px; top: 857px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 600; line-height: 48px; word-wrap: break-word">Related products</div>
+    <div style="height: 376px; left: 845px; top: 164px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div style="align-self: stretch; color: black; font-size: 40px; font-family: Inter; font-weight: 600; line-height: 48px; word-wrap: break-word">Product name</div>
+        <div style="align-self: stretch; color: #828282; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 36px; word-wrap: break-word">Subheading</div>
+        <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">$10.99</div>
+        <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">Body text for describing what this product is and why this product is simply a must-buy.</div>
+        <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 14px; padding-bottom: 14px; background: black; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05); border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+            <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Add to cart</div>
+        </div>
+        <div style="align-self: stretch; color: #828282; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Text box for additional details or fine print</div>
+    </div>
+    <img style="width: 625px; height: 613px; left: 80px; top: 164px; position: absolute; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 12px" src="https://via.placeholder.com/625x613" />
+    <div style="height: 164px; padding-left: 80px; padding-right: 80px; padding-top: 56px; padding-bottom: 56px; left: 0px; top: 0px; position: absolute; background: white; justify-content: center; align-items: center; gap: 795px; display: inline-flex">
+        <div style="color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Site name</div>
+        <div style="align-self: stretch; justify-content: flex-end; align-items: center; gap: 48px; display: inline-flex">
+            <div style="color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Page</div>
+            <div style="color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Page</div>
+            <div style="color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Page</div>
+            <div style="padding-left: 24px; padding-right: 24px; padding-top: 14px; padding-bottom: 14px; background: black; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05); border-radius: 8px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="color: white; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Button</div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 264px; left: 0px; top: 1851px; position: absolute; background: white">
+        <div style="height: 168px; left: 736px; top: 48px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; gap: 24px; display: inline-flex">
+            <div style="align-self: stretch; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Topic</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+        </div>
+        <div style="height: 168px; left: 955px; top: 48px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; gap: 24px; display: inline-flex">
+            <div style="align-self: stretch; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Topic</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+        </div>
+        <div style="height: 168px; left: 1173px; top: 48px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; gap: 24px; display: inline-flex">
+            <div style="align-self: stretch; color: black; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Topic</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+            <div style="align-self: stretch; color: #454545; font-size: 16px; font-family: Inter; font-weight: 500; line-height: 24px; word-wrap: break-word">Page</div>
+        </div>
+        <div style="left: 80px; top: 52px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; line-height: 36px; word-wrap: break-word">Site name</div>
+        <div style="left: 80px; top: 176px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+            <div style="width: 40px; height: 40px; padding: 8px; border-radius: 4px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 24px; height: 24px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <img style="width: 20px; height: 19.92px" src="https://via.placeholder.com/20x20" />
+                </div>
+            </div>
+            <div style="width: 40px; height: 40px; padding: 8px; border-radius: 4px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 24px; height: 24px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <img style="width: 18px; height: 18px" src="https://via.placeholder.com/18x18" />
+                </div>
+            </div>
+            <div style="width: 40px; height: 40px; padding: 8px; border-radius: 4px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 24px; height: 24px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <img style="width: 20px; height: 14px" src="https://via.placeholder.com/20x14" />
+                </div>
+            </div>
+            <div style="width: 40px; height: 40px; padding: 8px; border-radius: 4px; justify-content: center; align-items: center; display: flex">
+                <div style="width: 24px; height: 24px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                    <img style="width: 20px; height: 20px" src="https://via.placeholder.com/20x20" />
+                </div>
+            </div>
+        </div>
+        <div style="width: 1280px; height: 0px; left: 80px; top: 1px; position: absolute; border: 1px #E6E6E6 solid"></div>
+    </div>
+    <div style="width: 1282px; left: 80px; top: 937px; position: absolute; justify-content: space-between; align-items: flex-end; display: inline-flex">
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product </div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of first product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product</div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of fourth product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product</div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of second product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product</div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of fifth product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product</div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of third product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+        <div style="width: 404px; height: 366px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+            <img style="width: 404px; height: 238px; position: relative; background: linear-gradient(0deg, #F7F7F7 0%, #F7F7F7 100%); border-radius: 8px" src="https://via.placeholder.com/404x238" />
+            <div style="align-self: stretch; height: 104px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 4px; display: flex">
+                <div style="align-self: stretch; color: black; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Product</div>
+                <div style="align-self: stretch; color: #828282; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">Description of sixth product</div>
+                <div style="align-self: stretch; color: black; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 30px; word-wrap: break-word">$10.99</div>
+            </div>
+        </div>
+    </div>
+</div>
