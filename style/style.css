@@ -1,19 +1,4 @@
-// Section heading
-color: black;
- font-size: 48px;
- font-family: Inter;
- font-weight: 600;
- word-wrap: break-word
----
-// “A terrific piece of praise”
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Name
+// Learn More
 color: black;
  font-size: 16px;
  font-family: Inter;
@@ -21,71 +6,7 @@ color: black;
  line-height: 24px;
  word-wrap: break-word
 ---
-// Description
-color: #828282;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// “A fantastic bit of feedback”
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Name
-color: black;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Description
-color: #828282;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// “A genuinely glowing review”
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Name
-color: black;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Description
-color: #828282;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Topic
-color: black;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
+// EVs
 color: #454545;
  font-size: 16px;
  font-family: Inter;
@@ -93,7 +14,7 @@ color: #454545;
  line-height: 24px;
  word-wrap: break-word
 ---
-// Page
+// Partners
 color: #454545;
  font-size: 16px;
  font-family: Inter;
@@ -101,71 +22,7 @@ color: #454545;
  line-height: 24px;
  word-wrap: break-word
 ---
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Topic
-color: black;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Topic
-color: black;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
-color: #454545;
- font-size: 16px;
- font-family: Inter;
- font-weight: 500;
- line-height: 24px;
- word-wrap: break-word
----
-// Page
+// Our Mission
 color: #454545;
  font-size: 16px;
  font-family: Inter;
@@ -182,6 +39,584 @@ color: black;
  word-wrap: break-word
 ---
 // Toyo-data
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Model
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Account
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Contact
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Trends Over The Years
+color: black;
+ font-size: 48px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// 2021
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Toyota Prius Eco was the most fuel efficient, with a combined MPG of 58.
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// 2025
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Toyota Prius was the most fuel efficient, with a combined MPG of 57.
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Analysis at a glance
+color: black;
+ font-size: 48px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// MPG
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// MPG, or miles per gallon, is the distance, measured in miles, that a car can travel per gallon of fuel.
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Fuel Type
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Nowadays, there is a variety of fuel types in cars, from gas to electric to hybrid.
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Rating
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Based on the amount of air pollution the vehicle generates, it will be given a rating.
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Data
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Fuel Economy Indicators
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Back to top
+color: black;
+ font-size: 48px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Click Here
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Or Click Here
+color: rgba(0, 0, 0, 0.90);
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Fuel Economy Data Analyzer
+color: black;
+ font-size: 64px;
+ font-family: Inter;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// View data results below
+color: rgba(0, 0, 0, 0.75);
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Let’s go!
+color: white;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+
+// Data
+color: black;
+ font-size: 64px;
+ font-family: Inter;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Home
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Model
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Account
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Contact
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Learn More
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// EVs
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Partners
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Our Mission
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+
+// Hello, User
+color: black;
+ font-size: 64px;
+ font-family: Inter;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Welcome back to Toyo-data
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// To ensure all of your query history is saved, please ensure that all of your personal information below is correct. 
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Button
+color: white;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Site name
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Home
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Model
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Account
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Contact
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// First name
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// User
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Email address
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// email@userdomain.net
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Your message
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Life is worth living.
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Edit ✏ 
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Last name
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Name
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Personal Info
+color: black;
+ font-size: 32px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 48px;
+ word-wrap: break-word
+---
+// Learn More
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// EVs
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Partners
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Our Mission
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+
+// Related People
+color: black;
+ font-size: 40px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 60px;
+ word-wrap: break-word
+---
+// Koji Sato
+color: black;
+ font-size: 60px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 72px;
+ word-wrap: break-word
+---
+// CEO
+color: #828282;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Do not contact him about this.
+color: #828282;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Send love
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Button
+color: white;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Site name
 color: black;
  font-size: 20px;
  font-family: Inter;
@@ -214,6 +649,46 @@ color: black;
  word-wrap: break-word
 ---
 // Contact
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Page
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Home
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Button
 color: white;
  font-size: 16px;
  font-family: Inter;
@@ -221,164 +696,55 @@ color: white;
  line-height: 24px;
  word-wrap: break-word
 ---
-// Trends Over The Years
+// Site name
 color: black;
- font-size: 48px;
- font-family: Inter;
- font-weight: 600;
- word-wrap: break-word
----
-// 2021
-color: black;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Body text for whatever you’d like to add more to the subheading. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// 2022
+// Toyo-data
 color: black;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Body text for whatever you’d like to expand on the main point. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// 2023
+// Home
 color: black;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Body text for whatever you’d like to share more. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Section heading
+// Model
 color: black;
- font-size: 48px;
- font-family: Inter;
- font-weight: 600;
- word-wrap: break-word
----
-// Subheading
-color: black;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Body text for whatever you’d like to add more to the subheading. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Subheading
+// About
 color: black;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Body text for whatever you’d like to expand on the main point. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Analysis at a glance
-color: black;
- font-size: 48px;
- font-family: Inter;
- font-weight: 600;
- word-wrap: break-word
----
-// MPG
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Body text for whatever you’d like to expand on the main point. 
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Cost
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes.
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Rating
-color: black;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
----
-// Body text for whatever you’d like to add more to the main point. It provides details, explanations, and context.
-color: #828282;
- font-size: 24px;
- font-family: Inter;
- font-weight: 400;
- line-height: 36px;
- word-wrap: break-word
----
-// Button
+// Contact
 color: white;
- font-size: 24px;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Secondary button
+// Bailey Pinney 
 color: black;
  font-size: 24px;
  font-family: Inter;
@@ -386,48 +752,84 @@ color: black;
  line-height: 36px;
  word-wrap: break-word
 ---
-// Section heading
-color: black;
- font-size: 48px;
+// Administrator
+color: #828282;
+ font-size: 20px;
  font-family: Inter;
- font-weight: 600;
+ font-weight: 500;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Button
-color: white;
+// toyotabp@toyota.com
+color: black;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Ajmal
+color: black;
  font-size: 24px;
  font-family: Inter;
  font-weight: 500;
  line-height: 36px;
  word-wrap: break-word
 ---
-// Secondary button
-color: rgba(0, 0, 0, 0.90);
- font-size: 24px;
+// Administrator
+color: #828282;
+ font-size: 20px;
  font-family: Inter;
  font-weight: 500;
- line-height: 36px;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// Fuel Economy Data Analyzer
+// ak01414@toyota.com
 color: black;
- font-size: 64px;
+ font-size: 20px;
  font-family: Inter;
- font-weight: 700;
+ font-weight: 500;
+ line-height: 30px;
  word-wrap: break-word
 ---
-// View data results below
-color: rgba(0, 0, 0, 0.75);
+// Learn More
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// EVs
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Partners
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Our Mission
+color: #454545;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Toyo-data
+color: black;
  font-size: 24px;
  font-family: Inter;
  font-weight: 400;
  line-height: 36px;
  word-wrap: break-word
----
-// Let’s go!
-color: white;
- font-size: 24px;
- font-family: Inter;
- font-weight: 500;
- line-height: 36px;
- word-wrap: break-word
+
+
